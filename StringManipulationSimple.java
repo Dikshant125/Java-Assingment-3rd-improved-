@@ -1,3 +1,9 @@
+/***
+ * Question: String Manipulation
+ * Owner Name: Dikshant Goswami
+ * Date: 10-9-2024
+ */
+
 import java.util.Scanner;
 
 class StringManipulatesSimple {
