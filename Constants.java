@@ -1,0 +1,34 @@
+public class Constants {
+    public static final String ENTER_STRING = "Enter the String: ";
+    public static final String ENTER_NUMBER = "Enter the Number: ";
+    public static final String ENTER_POSITIVE_NUMBER = "Enter a positive integer: ";
+    public static final String INTEGER_WARNING = "Please enter a integer number";
+    public static final String CONSECUTIVE_SUM= "Consecutive sums for ";
+    public static final String INITIAL_NUMBER = "Initial number: ";
+    public static final String INTERMEDIATE_RESULT = "Intermediate result: ";
+    public static final String SINGLE_DIGIT_NUMBER = "Single digitresult:";
+    public static final String GENERATE_PERMUTATION = "1. Generate Permutations";
+    public static final String REDUCE_NUMBER =  "2. Reduce Number to Single Digit";
+    public static final String FIND_CONSECUTIVE = "3. Find Consecutive Sums";
+    public static final String ENCRYPT_STRING = "4. Encrypt String using Caesar Cipher";
+    public static final String ENCODE_NUMBER = "5. Encode Number to ASCII Value";
+    public static final String ENTER = "Enter your choice:";
+    public static final String ENTER_INTEGER = "Please enter an integer Only! ";
+    public static final String STRING_PERMUTATION = "Enter a string for permutation:";
+    public static final String GENERATE = "generate permutations";
+    public static final String TOREDUCE = "Enter a number to reduce:";
+    public static final String PL_INTEGER = "Please enter an integer Only";
+    public static final String SHOULD_POSITIVE = "Number should be positive";
+    public static final String REDUCE_NUMBER2 = "reduce number";
+    public static final String FIND_CONSECUTIVE2 = "Enter a number to find consecutive sums:";
+    public static final String CONSECUTIVE_SUM2 = "find consecutive sums";
+    public static final String STRING_TOENCRYPT = "Enter a string to encrypt:";
+    public static final String SHIFT_PATTERN = "Enter the shift pattern (space separated):";
+    public static final String ENCRYPTED = "Encrypted String: ";
+    public static final String ENCY = "encrypt string";
+    public static final String ENCODED = "encode number";
+    public static final String INVALID = "Invalid choice!";
+    public static final String TERMINATED = "Program terminated.";
+    public static final String ENTER_SERIES = "enter series";
+    public static final String CORECT_STRING = "enter correct string";
+}
